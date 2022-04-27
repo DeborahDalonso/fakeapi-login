@@ -1,6 +1,12 @@
 {
-  "headers": [
-  {"code": 200, "message": "success"},
-  {"code": 401 , "message": "unauthorized"},
+  "cursos": [
+    {"id": 1, "title:" "matematica"},
+    {"id": 2, "title:" "portugues"},
+    {"id": 3, "title:" "historia"},
+  ],
+  "alunos": [
+    {"id": 1, "name": "Pedro", "curso": 1},
+    {"id": 2, "name": "Paulo", "curso": 2},
+    {"id": 3, "name": "Plinio", "curso": 3},
   ]
 }
