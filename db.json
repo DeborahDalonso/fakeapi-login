@@ -1,12 +1,15 @@
 {
-  "cursos": [
-    {"id": 1, "title": "matematica"},
-    {"id": 2, "title": "portugues"},
-    {"id": 3, "title": "historia"},
-  ],
-  "alunos": [
-    {"id": 1, "name": "Pedro", "curso": 1},
-    {"id": 2, "name": "Paulo", "curso": 2},
-    {"id": 3, "name": "Plinio", "curso": 3},
-  ]
+    "firstName": "Rack",
+    "lastName": "jackson",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126 Udhna",
+        "city": "san jone",
+        "state": "CA",
+        "postalCode": "394221"
+    },
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
 }
