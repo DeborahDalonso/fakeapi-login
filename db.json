@@ -1,8 +1,8 @@
 {
   "cursos": [
-    {"id": 1, "title:" "matematica"},
-    {"id": 2, "title:" "portugues"},
-    {"id": 3, "title:" "historia"},
+    {"id": 1, "title": "matematica"},
+    {"id": 2, "title": "portugues"},
+    {"id": 3, "title": "historia"},
   ],
   "alunos": [
     {"id": 1, "name": "Pedro", "curso": 1},
